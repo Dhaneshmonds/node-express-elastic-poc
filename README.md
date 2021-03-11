@@ -1,10 +1,10 @@
 # Node.js Express.js and Elastic Search
 
-Download Elastic search from below url
+1. Download Elastic search from below url
 
 https://www.elastic.co/downloads/elasticsearch
 
-Configure elastic search. Get help from below article
+2. Configure elastic search. Get help from below article
 
 https://www.elastic.co/guide/en/elasticsearch/reference/current/zip-windows.html
 
